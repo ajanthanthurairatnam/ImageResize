@@ -1,0 +1,11 @@
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\ImageResizeApp.vbprojResolveAssemblyReference.cache
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\ImageResizeApp.vbproj.GenerateResource.Cache
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\ajant\OneDrive\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
